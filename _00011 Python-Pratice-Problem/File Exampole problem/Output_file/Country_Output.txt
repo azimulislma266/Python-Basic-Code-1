@@ -1,0 +1,6 @@
+Country Capital Currency
+Bangladesh Dhaka Taka
+India New-Delhi Rupees
+China Beijing Renminbi
+Srilanka Colombo Rupees
+USA New-York Dollars
